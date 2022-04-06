@@ -1,7 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
-
+tittle: Bienvenidos
+description: en esta empresa vas a encontrar,aparatos de buena calidad trabajamos  de 24 horas  por lo tanto te esperamos en nuestra empresa
 # Build settings
 markdown: kramdown
 sass:
